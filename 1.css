@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    left:0;
+    right:0;
+}
+div{
+    width:100px;
+    height:100px;
+}
+span{
+    width:50px;}
+ul{
+    font-size:20px;
+    color:red;
+}
+li{
+    float:left;
+}
